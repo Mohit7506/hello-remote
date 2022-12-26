@@ -2,3 +2,6 @@
 
 date1=`date`
 echo "$date1"
+
+x=mohit
+echo $x
