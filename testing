@@ -5,3 +5,6 @@ echo "$date1"
 
 x=mohit
 echo $x
+
+y=pant
+echo $y
