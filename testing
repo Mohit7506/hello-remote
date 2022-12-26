@@ -8,3 +8,6 @@ echo $x
 
 y=pant
 echo $y
+
+z=shilpa
+echo $z
