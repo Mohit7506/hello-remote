@@ -11,3 +11,6 @@ echo $y
 
 z=shilpa
 echo $z
+
+w=kannu
+echo $w
