@@ -12,3 +12,6 @@ print(w)
 
 z = testing1
 print(w1)
+
+z = testing2
+print(w2)
