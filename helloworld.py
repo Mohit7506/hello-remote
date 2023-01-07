@@ -9,3 +9,6 @@ print(z)
 
 z = testing
 print(w)
+
+z = testing1
+print(w1)
