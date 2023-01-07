@@ -18,6 +18,3 @@ print(w2)
 
 z = testing3
 print(w3)
-
-p = testing4
-print(p)
